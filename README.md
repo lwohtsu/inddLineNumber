@@ -19,6 +19,7 @@ InDesign CS4以降のScripts PanelフォルダにinddLineNumber.jsxを保存し�
 ※「Scripts Panel」フォルダはInDesignの〈Script〉パネルで「Users」を右クリック→［Finder］で表示できます。
 
 〈Script〉パネルは［ウィンドウ］→［自動化］→［スクリプト］パネルを選択して表示します。
+![script panel](img/inddLineNumber3.jpg)
 
 
 #How to Use
