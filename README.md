@@ -11,7 +11,7 @@ Auto Numbering for InDesign CS4+
 
 初期値とゼロパディングの形式を選択できます。
 
-![Dialog](img/InddRenban.png)
+![Dialog](inddLineNUmber2.jpg)
 
 
 #Install
