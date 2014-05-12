@@ -10,6 +10,8 @@ Auto Numbering for InDesign CS4+
 
 ![Dialog](img/inddLineNumber.jpg)
 
+
+カーソルのあるセルから下方向に振っていくので、途中から番号を変えることもできます。
 ![result](img/inddLineNUmber2.jpg)
 
 
