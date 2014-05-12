@@ -6,12 +6,11 @@ Auto Numbering for InDesign CS4+
 
 #About
 表に連番を挿入します。ソースコードに行番号を付けるために作成しました。
-
-![result](img/inddLineNUmber2.jpg)
-
 初期値とゼロパディングの形式を選択できます。
 
 ![Dialog](img/inddLineNumber.jpg)
+
+![result](img/inddLineNUmber2.jpg)
 
 
 #Install
